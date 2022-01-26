@@ -17,3 +17,4 @@ Output: [1,2]
 
 Input: nums = [3,3], target = 6\
 Output: [0,1]
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/odev1.JPG?raw=true)
