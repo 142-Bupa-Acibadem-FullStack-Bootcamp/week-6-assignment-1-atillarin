@@ -17,4 +17,4 @@ Output: [1,2]
 
 Input: nums = [3,3], target = 6\
 Output: [0,1]
-![alt text](https://github.com/142-Bupa-Acibadem-FullStack-Bootcamp/week-6-assignment-1-atillarin/odev1.JPG?raw=true)
+![alt text](https://github.com/142-Bupa-Acibadem-FullStack-Bootcamp/week-6-assignment-1-atillarin/blob/main/odev1.JPG?raw=true)
