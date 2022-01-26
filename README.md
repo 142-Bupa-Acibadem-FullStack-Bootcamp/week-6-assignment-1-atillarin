@@ -17,4 +17,5 @@ Output: [1,2]
 
 Input: nums = [3,3], target = 6\
 Output: [0,1]
-https://resimyukle.imageupload.workers.dev/4vLMf498_odev1.JPG
+![alt text](https://resimyukle.imageupload.workers.dev/4vLMf498_odev1.JPG)
+
