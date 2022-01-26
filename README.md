@@ -18,4 +18,5 @@ Output: [1,2]
 Input: nums = [3,3], target = 6\
 Output: [0,1]
 ![alt text](https://resimyukle.imageupload.workers.dev/4vLMf498_odev1.JPG)
-
+![Alt text](https://resimyukle.imageupload.workers.dev/4vLMf498_odev1.JPG?raw=true "Title")
+https://resimyukle.imageupload.workers.dev/4vLMf498_odev1.JPG
